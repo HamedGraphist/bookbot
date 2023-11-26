@@ -1,4 +1,7 @@
-path_to_file = "C:\\Users\\user\\workspace\\github.com\\HamedGraphist\\bookbot\\books"
+# main.py
+
+# Specify the path to the file (replace with the actual path)
+path_to_file = r"C:\Users\user\workspace\github.com\HamedGraphist\bookbot\books\frankenstein.txt"
 
 # Use a with block to open the file
 with open(path_to_file, 'r') as file:
